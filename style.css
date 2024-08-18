@@ -49,6 +49,7 @@ h1{
     text-align: center;
 }
 .seccion-titulo{
+    margin-top: 10px;
     font-size: 2rem;
     padding: 15px 0;
     font-family: "Rubik Dirt", system-ui;
