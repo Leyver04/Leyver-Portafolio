@@ -265,3 +265,13 @@ footer{
     max-width: 600px;
 }
 }
+@media (max-width: 768px) {
+    .seccion-titulo {
+      font-size: 1.8rem; 
+    }
+  
+    .seccion-texto {
+      font-size: 0.9rem; 
+      text-align: left; 
+    }
+  }
